@@ -31,6 +31,7 @@ repositories {
 	maven { url = "https://maven.jamieswhiteshirt.com/libs-release" } // Reach Entity Attributes
 	maven { url = "https://jitpack.io/" } // Mixin Extras, Fabric ASM
 	maven { url = "https://maven.tterrag.com/" } // Flywheel
+	maven { url = "https://maven.teamresourceful.com/repository/maven-public/" } // AdAstra
 }
 
 configurations.configureEach {
@@ -51,6 +52,8 @@ dependencies {
 
 	// dependencies
 	modImplementation("net.fabricmc.fabric-api:fabric-api:${fabric_api_version}")
+
+	modImplementation("earth.terrarium.adastra:ad_astra-fabric-${minecraft_version}:${adastra_version}")
 
 	// Create - dependencies are added transitively
 	modImplementation("com.simibubi.create:create-fabric-${minecraft_version}:${create_version}")

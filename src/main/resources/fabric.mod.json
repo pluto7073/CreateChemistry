@@ -1,25 +1,25 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "createchem",
   "version": "${version}",
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Create: Chemistry",
+  "description": "An addon for the Create Mod and Ad Astra that introduces Chemistry to the game (Slightly Education Edition Inspired)",
   "authors": [
-    "Me!"
+    "Pluto7073"
   ],
   "contact": {
     "sources": "https://github.com/Fabricators-of-Create/create-fabric-addon-template"
   },
-  "license": "CC0",
-  "icon": "assets/modid/icon.png",
+  "license": "MIT",
+  "icon": "assets/createchem/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.modid.ExampleMod"
+      "ml.pluto7073.createchem.CreateChemistry"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "createchem.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${fabric_loader_version}",
