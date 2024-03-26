@@ -1,3 +1,57 @@
 {
-  "itemGroup.chemistry.elements": "Elements"
+  "itemGroup.createchem.elements": "Elements",
+  "itemGroup.createchem.compounds": "Compounds",
+  "itemGroup.createchem.cc_misc": "Create: Chemistry Items",
+
+  "item.createchem.helium_bucket": "Helium Bucket",
+  "item.createchem.lithium_ingot": "Lithium Ingot",
+  "item.createchem.beryllium_ingot": "Beryllium Ingot",
+  "item.createchem.boron": "Boron",
+  "item.createchem.carbon": "Graphite (Carbon)",
+  "item.createchem.liquid_nitrogen_bucket": "Liquid Nitrogen Bucket",
+  "item.createchem.fluorine_bucket": "Fluorine Bucket",
+  "item.createchem.neon_bucket": "Neon Bucket",
+  "item.createchem.sodium_ingot": "Sodium Ingot",
+  "item.createchem.magnesium_ingot": "Magnesium Ingot",
+  "item.createchem.aluminium_ingot": "Aluminium Ingot",
+  "item.createchem.silicon_shard": "Silicon Shard",
+  "item.createchem.white_phosphorus": "White Phosphorus",
+  "item.createchem.red_phosphorus": "Red Phosphorus",
+  "item.createchem.sulfur": "Sulfur",
+  "item.createchem.chlorine_bucket": "Chlorine Bucket",
+  "item.createchem.argon_bucket": "Argon Bucket",
+  "item.createchem.potassium_ingot": "Potassium Ingot",
+  "item.createchem.calcium_ingot": "Calcium Ingot",
+  "item.createchem.scandium_ingot": "Scandium Ingot",
+  "item.createchem.titanium_ingot": "Titanium Ingot",
+  "item.createchem.vanadium_ingot": "Vanadium Ingot",
+  "item.createchem.chromium_ingot": "Chromium Ingot",
+  "item.createchem.manganese_ingot": "Manganese Ingot",
+  "item.createchem.cobalt_ingot": "Cobalt Ingot",
+  "item.createchem.nickel_ingot": "Nickel Ingot",
+
+  "item.createchem.caffeine": "Caffeine",
+  "fullname.item.createchem.caffeine": "1,3,7-trimethylpurine-2,6-dione",
+  "formula.item.createchem.caffeine": "C8H10N4O2",
+  "item.createchem.hcl_bucket": "Bucket of Hydrochloric Acid",
+  "fullname.item.createchem.hcl_bucket": "Bucket of Hydrochloric Acid",
+  "formula.item.createchem.hcl_bucket": "Bucket of HCL",
+  "item.createchem.sodium_chloride": "Salt",
+  "fullname.item.createchem.sodium_chloride": "Sodium Chloride",
+  "formula.item.createchem.sodium_chloride": "NaCl",
+  "item.createchem.sodium_hydroxide": "Lye",
+  "fullname.item.createchem.sodium_hydroxide": "Sodium Hydroxide",
+  "formula.item.createchem.sodium_hydroxide": "NaOH",
+  "fullname.item.minecraft.water_bucket": "Bucket of Di-hydrogen Monoxide",
+  "formula.item.minecraft.water_bucket": "H2O Bucket",
+
+  "fluid.createchem.hcl": "HCL",
+  "fluid.createchem.flowing_hcl": "Flowing HCL",
+
+  "drink_addition.createchem.pure_caffeine": "Caffeine Powder",
+
+  "title.createchem.config": "Create: Chemistry Settings",
+
+  "option.createchem.display_name_preference": "Compound Name Type",
+  "option.createchem.display_name_preference.tooltip": "How to display Compound Names\nCOMMON - The common used name for the compound, e.g. Salt\nFULLNAME - The Scientific Name of the Compound, e.g. Sodium Chloride\nFORMULA - The Chemical formula for the compound, e.g. NaCl"
 }

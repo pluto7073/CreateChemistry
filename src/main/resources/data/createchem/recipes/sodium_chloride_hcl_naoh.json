@@ -1,0 +1,23 @@
+{
+  "type": "create:mixing",
+  "ingredients": [
+    {
+      "item": "createchem:sodium_hydroxide"
+    },
+    {
+      "fluid": "createchem:hcl",
+      "amount": 200
+    }
+  ],
+  "results": [
+    {
+      "fluid": "minecraft:water",
+      "amount": 200
+    },
+    {
+      "item": "createchem:sodium_chloride",
+      "amount": 1
+    }
+  ],
+  "heatRequirement": "heated"
+}
